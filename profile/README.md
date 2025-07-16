@@ -1,7 +1,3 @@
-Below is a draft of a `README.md` for the GitHub organization **hypr-technologies**, inspired by the content at [hypr.tech](https://hypr.tech/). Please review and let me know any edits or additions you'd like!
-
----
-
 ````markdown
 # HYPR Technologies
 
