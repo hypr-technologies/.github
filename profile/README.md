@@ -3,6 +3,8 @@
 
 **Where infrastructure stops being polite™**
 
+# Remember - if it isn't Hypr, then it's just hype.
+
 HYPR Technologies (PTE. LTD.) is pioneering the future of digital infrastructure—building globally‑distributed, high‑performance platforms for developers, operators, and iGaming leaders.
 
 ---
